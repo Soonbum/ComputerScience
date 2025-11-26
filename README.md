@@ -66,3 +66,5 @@
 <!-- https://www.youtube.com/watch?v=zltgXvg6r3k&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=9 -->
 <!-- https://www.youtube.com/@CoreDumpped/videos -->
 <!-- https://www.youtube.com/@BitLemonSoftware/videos -->
+<!-- https://www.youtube.com/watch?v=XpFsMB6FoOs&list=WL&index=55&pp=gAQBiAQB (부팅) -->
+<!-- 뺄셈은 2의 보수 연산을 하면 된다. 곱셉은 덧셈의 반복, 나눗셈은 뺄셈의 반복 -->
