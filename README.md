@@ -63,7 +63,7 @@
 
 (... 내용은 계속됩니다)
 
-<!-- https://www.youtube.com/watch?v=zltgXvg6r3k&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=9 -->
+<!-- https://www.youtube.com/watch?v=gI-qXk7XojA&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=4 -->
 <!-- https://www.youtube.com/@CoreDumpped/videos -->
 <!-- https://www.youtube.com/@BitLemonSoftware/videos -->
 <!-- https://www.youtube.com/watch?v=XpFsMB6FoOs&list=WL&index=55&pp=gAQBiAQB (부팅) -->
