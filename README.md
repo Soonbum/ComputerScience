@@ -1,6 +1,6 @@
 # 컴퓨터 과학
 
-* 본 글은 컴퓨터 과학(Computer Science)을 가장 기본적인 개념부터 설명하기 시작하여 일반인도 쉽게 이해하기 위해 작성한 글입니다. (저자: 정순범)
+* 본 글은 컴퓨터 과학(Computer Science)을 가장 기본적인 개념부터 이해할 수 있도록 정리한 글입니다. (저자: 정순범)
 
 ## 컴퓨터 과학 개론
 
@@ -116,7 +116,6 @@
 
 <!-- https://www.youtube.com/@CoreDumpped/videos -->
 <!-- https://www.youtube.com/@BitLemonSoftware/videos -->
-<!-- https://www.youtube.com/@StemExploratiOdyssey/videos -->
 <!-- https://www.youtube.com/@PolymathUnlimited-du2hg/videos -->
 
 
